@@ -262,6 +262,8 @@ export const DEFAULT_EVENTS: CollegeEvent[] = [
           risk: 'Sponsor payment delays before fest production advances',
           severity: 'Medium',
           probability: 'Medium',
+          contingencyPlan: 'Follow up with sponsors early and maintain a reserve fund to cover essential production costs.'
+        }
       ]
     },
     competitions: [

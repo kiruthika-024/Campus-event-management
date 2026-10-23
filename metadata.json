@@ -1,0 +1,6 @@
+{
+  "name": "CampusFest OS - College Event Planning & Review",
+  "description": "Comprehensive college event management, post-fest retrospective review, and next edition master planning suite for student organizers and faculty committees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
